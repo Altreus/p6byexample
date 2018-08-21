@@ -8,7 +8,7 @@ say [1, 2] xx 2; # ([1 2] [1 2])
 
 # Greatest Common Divisor & Least Common Multiple (gcd, lcm)
 say 27 gcd 18; # 9
-say 35 lcm 10; # 10
+say 35 lcm 10; # 70
 
 # Perl 6 has full unicode support, here's some notable options of Unicode in Perl 6 Operators:
 
